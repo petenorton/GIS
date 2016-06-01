@@ -1,6 +1,5 @@
 # GIS
 
-Introduction
 - Basic Models
 - Suitability Analysis
 - Network Analysis
