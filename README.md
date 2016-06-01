@@ -1,6 +1,6 @@
 # GIS
 
-1 Introduction
+Introduction
 - Basic Models
 - Suitability Analysis
 - Network Analysis
@@ -11,4 +11,3 @@
 - Kriging
 - Big Data
 - DBScan
-Other Projects
